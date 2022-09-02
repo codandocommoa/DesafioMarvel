@@ -54,3 +54,26 @@
 * Ao finalizar, faça o **pull request** para este repositório
 
 **Ultimo recadinho:** não utilize o nome da NTTData dentro de seu projeto 😉
+
+
+
+#Fazes do Projeto
+## Fase 1
+  API
+    Ler Documentacão
+    Implementar a Chamada da Api
+    
+## Fase 2
+    - Ler dados e Persistir localmente.
+    
+## Fase 3 
+    - Tela de Lista
+
+## Fase 4
+    - Tela de Detalhes
+    
+## Fase 5
+    - Entrega.
+
+
+  
