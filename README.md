@@ -7,9 +7,6 @@
 
   <h3 align="center">Desafio - iOS Developer </h3>
 
-  <p align="center">
-    NTT Data é uma empresa........
-  </p>
 </p>
 
 ## Sobre
